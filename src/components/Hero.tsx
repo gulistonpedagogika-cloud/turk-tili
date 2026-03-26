@@ -15,15 +15,15 @@ export default function Hero() {
               transition={{ duration: 0.5 }}
             >
               <span className="inline-block py-1 px-3 rounded-full bg-red-50 text-turkish-red text-sm font-semibold mb-6">
-                Turk tilini o'rganish endi oson
+                O'zbek va Turk tillarini o'rganish endi oson
               </span>
               <h1 className="text-5xl lg:text-7xl font-bold text-slate-900 leading-tight mb-6">
-                Turk Tilini <br />
+                O'zbek va Turk <br />
                 <span className="text-turkish-red">Interaktiv</span> O'rganing
               </h1>
               <p className="text-lg text-slate-600 mb-10 max-w-2xl">
                 Boshlang'ichdan yuqori darajagacha bo'lgan darslar, AI repetitor bilan suhbat va 
-                qiziqarli mashqlar orqali turk tilini tez va samarali o'zlashtiring.
+                qiziqarli mashqlar orqali o'zbek va turk tillarini tez va samarali o'zlashtiring.
               </p>
               <div className="flex flex-wrap justify-center lg:justify-start gap-4">
                 <Link to="/lessons" className="px-8 py-4 bg-turkish-red text-white rounded-xl font-bold shadow-lg shadow-red-200 hover:bg-red-700 transition-all flex items-center gap-2">

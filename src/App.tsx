@@ -16,12 +16,12 @@ function Home() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-slate-900 mb-4">Nima uchun bizni tanlashadi?</h2>
             <p className="text-slate-600 max-w-2xl mx-auto">
-              Turk tilini o'rganishning eng zamonaviy va qulay usullarini taklif etamiz.
+              O'zbek va Turk tillarini o'rganishning eng zamonaviy va qulay usullarini taklif etamiz.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { title: 'AI Repetitor', desc: 'Siz bilan 24/7 turk tilida gaplashadigan aqlli yordamchi.', icon: '🤖' },
+              { title: 'AI Repetitor', desc: 'Siz bilan 24/7 o\'zbek va turk tillarida gaplashadigan aqlli yordamchi.', icon: '🤖' },
               { title: 'Tizimli Darslar', desc: 'Grammatika va so\'z boyligini bosqichma-bosqich oshiring.', icon: '📚' },
               { title: 'Mashqlar', desc: 'Bilimingizni mustahkamlash uchun interaktiv testlar.', icon: '✍️' },
             ].map((feature, i) => (
@@ -59,7 +59,7 @@ export default function App() {
                   T
                 </div>
                 <span className="text-xl font-bold tracking-tight">
-                  Turk<span className="text-turkish-red">Tili</span>
+                  O'zbek va <span className="text-turkish-red">Turk</span>
                 </span>
               </div>
               <div className="flex gap-8 text-sm text-slate-400">
@@ -68,7 +68,7 @@ export default function App() {
                 <a href="#" className="hover:text-white transition-colors">Maxfiylik</a>
               </div>
               <p className="text-sm text-slate-500">
-                © 2026 Turk Tili Markazi. Barcha huquqlar himoyalangan.
+                © 2026 O'zbek va Turk Markazi. Barcha huquqlar himoyalangan.
               </p>
             </div>
           </div>

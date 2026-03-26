@@ -22,7 +22,7 @@ export default function Navbar() {
             T
           </div>
           <span className="text-xl font-bold text-slate-900 tracking-tight">
-            Turk<span className="text-turkish-red">Tili</span>
+            O'zbek va <span className="text-turkish-red">Turk</span>
           </span>
         </Link>
 

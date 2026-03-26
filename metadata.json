@@ -1,6 +1,6 @@
 {
-  "name": "Turk Tili Markazi",
-  "description": "Turk tilini o'rganish uchun interaktiv platforma: darslar, mashqlar va AI repetitor.",
+  "name": "O'zbek va Turk Markazi",
+  "description": "O'zbek va Turk tillarini o'rganish uchun interaktiv platforma: darslar, mashqlar va AI repetitor.",
   "requestFramePermissions": [
     "microphone"
   ]
