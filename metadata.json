@@ -1,0 +1,7 @@
+{
+  "name": "Turk Tili Markazi",
+  "description": "Turk tilini o'rganish uchun interaktiv platforma: darslar, mashqlar va AI repetitor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
